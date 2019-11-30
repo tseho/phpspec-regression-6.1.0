@@ -8,7 +8,7 @@
     }
   ],
   "require": {
-    "phpspec/phpspec": "6.0.0"
+    "phpspec/phpspec": "6.1.0"
   },
   "config": {
     "bin-dir": "bin"
