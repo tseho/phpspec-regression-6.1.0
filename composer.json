@@ -1,0 +1,21 @@
+{
+  "name": "tseho/phpspec-regression-6.1.0",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tseho",
+      "email": "quentin.favrie@gmail.com"
+    }
+  ],
+  "require": {
+    "phpspec/phpspec": "6.0.0"
+  },
+  "config": {
+    "bin-dir": "bin"
+  },
+  "autoload": {
+    "psr-0": {
+      "": "src"
+    }
+  }
+}
